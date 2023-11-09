@@ -1,0 +1,161 @@
+
+
+ 
+#container{
+    background-image: url(./image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: 10px rgb(26, 204, 26) groove;
+    height: 2000px;
+
+.text{
+    color: white;
+    background: black;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 20px;
+    display:inline-block;
+    height: 100px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-top: 40px;
+    
+}
+.ravi-t1{
+    color: white;
+    background: black;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 20px;
+    display:inline-block;
+    height: 40px;
+    width: 450px;
+    margin-left: 50px;
+    margin-bottom: 80px;
+    padding-bottom: 20px;
+}
+.ravi-t2{
+    color: white;
+    background: black;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 20px;
+    display:inline-block;
+    height: 100px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 40px;
+    padding-bottom: 35px;
+    
+}
+.ravi-t3{
+    color: red;
+   display: block; 
+   text-align: center;
+   border:6px dashed red;
+   border-color: red;
+   margin-left: 800px;
+   height: 500px;
+   width: 400px;
+   margin-top: 80px;
+   padding: 10px;
+}
+.ravi-t4{
+    
+    color: white;
+    background: black;
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 20px;
+    display: block;
+    height: 40px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top:30px;
+    padding-bottom: 20px;
+    
+}
+.ravi-t5{
+    border: 5px solid red;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    height: 350px;
+    width: 350px;
+    margin-top: 90px;
+    position: absolute;
+    left: 40px;
+    top: 400px;
+    
+}
+
+.menu{
+   text-align: center;
+   justify-content: space-evenly;
+   border: 2px solid rgb(7, 54, 61);
+   border-radius: 30px;
+   margin-top: 50px;
+}
+#menu1{
+    height: 250px;
+    width: 400px;
+    background: aqua;
+    display: inline-block;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+#menu2{
+    height: 250px;
+    width: 400px;
+    background: aqua;
+    display: inline-block;
+    margin: 30px; 
+    border: 1px solid black;
+    border-radius: 25px;
+}
+}
+#menu3{
+    height: 250px;
+    width: 400px;
+    background: aqua;
+    display: inline-block;
+    margin: 30px; 
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+#menu4{
+    height: 250px;
+    width: 400px;
+    background: aqua;
+    display: inline-block;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+#menu5{
+    height: 250px;
+    width: 400px;
+    background: aqua;
+    display: inline-block;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 25px;
+
+}
+#menu6{
+    height: 250px;
+    width: 400px;
+    background: aqua;
+    display: inline-block;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 25px;
+
+}
+
+
